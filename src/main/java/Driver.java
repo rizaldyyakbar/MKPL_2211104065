@@ -1,6 +1,6 @@
 import src.main.java.Counter;
 
-public class Driver {
+public class Driverr {
 
 	public static void main(String[] args) {
 		
